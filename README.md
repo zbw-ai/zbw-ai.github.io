@@ -60,10 +60,11 @@ Some examples:
 
 1. Clone your REPO to local using `git clone`.
 1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+
+3.  Run to install the dependencies `bash run_local_install.sh` and Run `bash run_server.sh` to start Jekyll livereload server.
+4. Open http://127.0.0.1:4000 in your browser.
+5. If you change the source code of the website, the livereload server will automatically refresh.
+6. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
 
 # Usage
@@ -72,7 +73,7 @@ Some examples:
 <div class='paper-box'>
 <div class='paper-box-image'><div>
 <div class="badge">paper</div>
-<img src=paper_figure alt="sym" width="100%"></div></div>
+<img src="paper_figure_path" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- titile -->
