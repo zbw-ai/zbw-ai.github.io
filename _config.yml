@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Bian"
-description              : "I am studying at shenzhen International Graduate School of Tsinghua University. I am currently doing research on pathological image analysis"
+description              : "computer vision, histopathology image analysis"
 repository               : "bianhao123/bianhao123.github.io"
 google_scholar_stats_use_cdn : true
 

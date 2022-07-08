@@ -1,0 +1,6 @@
+@article{bian2022multiple,
+  title={Multiple Instance Learning with Mixed Supervision in Gleason Grading},
+  author={Bian, Hao and Shao, Zhuchen and Chen, Yang and Wang, Yifeng and Wang, Haoqian and Zhang, Jian and Zhang, Yongbing},
+  journal={arXiv preprint arXiv:2206.12798},
+  year={2022}
+}
